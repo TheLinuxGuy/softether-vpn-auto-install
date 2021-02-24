@@ -2,12 +2,12 @@
 
 # variables
 
-seInstallFileUrl='https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.29-9680-rtm/softether-vpnserver-v4.29-9680-rtm-2019.02.28-linux-arm_eabi-32bit.tar.gz'
-hubName='hubName1'
+seInstallFileUrl='https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.34-9745-beta/softether-vpnserver-v4.34-9745-beta-2020.04.05-linux-arm_eabi-32bit.tar.gz'
+hubName='mia'
 
 ## credentials
 
-hubAdmin='admin.user1'
+hubAdmin='gfm'
 
 ## define console colours
 
